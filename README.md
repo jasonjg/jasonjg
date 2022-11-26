@@ -1,7 +1,7 @@
 ## Hi! 👋  Welcome to my GitHub profile. 
 I'm Jason. Nice to meet you.  
 ## About Me:
-- I'm more analytical than artistic, but I love creating things. I found that coding allows me to combine these two parts of me.
+- I'm more analytical than artistic, but I love creating things. I found that coding combines these two parts of me.
 - I'm not currently working in a development role, but hope to be soon.
 - In my off time I enjoy camping, twiddling synthesizer knobs, and an occasional video game.  
 ## Languages and Technologies
