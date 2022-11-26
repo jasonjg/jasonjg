@@ -9,4 +9,6 @@ I'm Jason. Nice to meet you.
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" title="Python" alt="Python" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" title="JavaScript" alt="JavaScript" /> <img height="32" width="32" src=".\images\sql-file-format-svgrepo-com.svg" title="SQL" alt="SQL" /> <img height="32" width="32" src="https://cdn.simpleicons.org/git" title="Git" alt="Git" />  
 ## Connect
 <a href="https://www.linkedin.com/in/jason-galbiso/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a> <a href="mailto:jasongcodes@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail" /></a>  
-\* Personal site coming soon *
+\* Personal site coming soon *  
+<br />
+<img align="right" title="last updated" alt="last updated" src="https://img.shields.io/github/last-commit/jasonjg/jasonjg?label=last%20updated">
